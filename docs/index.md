@@ -1,0 +1,2 @@
+# Overview
+Google Docs is a free cloud-based text-editing software driven by Google, that allows to collaborate on tasks with your teammates, comment on the documents, and manage the documents access modes. The software comes in browser and desktop versions. It contains a full set of tools for text processing, and can be integrated with the other Google products such as Google Drive, Google Forms, Google Slides, and Google Sheets.
