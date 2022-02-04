@@ -1,0 +1,21 @@
+site_name: Google Docs Guide
+site_author: Aleksei Rubtsov
+extra_css:
+  - stylesheets/extra.css
+
+theme:
+  palette:
+    primary: stylesheets/extra.css 
+  name: material
+  logo: 'img/favicon.png'
+  favicon: img/favicon.png
+
+nav:
+  - Creating a new document: creating.md
+  - Downloading a document: downloading.md
+  - Printing a document: printing.md
+  - Text formatting: text formatting.md
+  - Inserting content: inserting.md
+  - Managing access: managing access.md
+  - Managing add-ons: managing addons.md
+  - Managing settings: managing settings.md
